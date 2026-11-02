@@ -1,0 +1,21 @@
+[
+    {
+        "guid": "a54e3077-6d87-4424-980b-0bb641285f46",
+        "name": "Deezer Metadata",
+        "overview": "Metadata and images for music artists and albums from Deezer.",
+        "description": "Metadata and images for music artists and albums from Deezer.",
+        "owner": "Druidblack",
+        "category": "Music",
+        "imageUrl": "https://raw.githubusercontent.com/Druidblack/Jellyfin.Plugin.Deezer/main/deezer.jpg",
+        "versions": [
+            {
+                "version": "1.0.0.0",
+                "changelog": "Public release",
+                "targetAbi": "12.0",
+                "sourceUrl": "https://github.com/Druidblack/Jellyfin.Plugin.Deezer/releases/download/Release-1.0.0.0/Release-1.0.0.0.zip",
+                "checksum": "785f523f1f4a4ae443c395cfb1fdee5b",
+                "timestamp": "2026-11-01T01:00:00+00:00"
+            }
+        ]
+    }
+]
